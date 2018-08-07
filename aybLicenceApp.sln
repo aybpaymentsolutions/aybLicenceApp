@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aybLicenceApp.Android", "aybLicenceApp\aybLicenceApp.Android\aybLicenceApp.Android.csproj", "{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aybLicenceApp", "aybLicenceApp\aybLicenceApp\aybLicenceApp.csproj", "{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E2640F-4DAF-481D-BC98-549BDCE6DD49}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C75AD17-6D13-45F3-9CF4-1B36462BA2DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DAE40F-BFD0-4C64-87E7-5947767E2945}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://abposapp.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = aybLicenceApp\\aybLicenceApp.Android\\aybLicenceApp.Android.csproj
+		SccProjectName1 = aybLicenceApp/aybLicenceApp.Android
+		SccLocalPath1 = aybLicenceApp\\aybLicenceApp.Android
+		SccProjectUniqueName2 = aybLicenceApp\\aybLicenceApp\\aybLicenceApp.csproj
+		SccProjectName2 = aybLicenceApp/aybLicenceApp
+		SccLocalPath2 = aybLicenceApp\\aybLicenceApp
+	EndGlobalSection
+EndGlobal
