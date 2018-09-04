@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\bin\Release\netstandard2.0\aybLicenceApp.deps.json
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\bin\Release\netstandard2.0\aybLicenceApp.dll
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\bin\Release\netstandard2.0\aybLicenceApp.pdb
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\bin\Release\netstandard2.0\Mono.Android.dll
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\bin\Release\netstandard2.0\Mono.Android.xml
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.AssemblyInfo.cs
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.csproj.CopyComplete
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.dll
+C:\Users\carlo\source\repos\aybLicenceApp\aybLicenceApp\aybLicenceApp\obj\Release\netstandard2.0\aybLicenceApp.pdb
